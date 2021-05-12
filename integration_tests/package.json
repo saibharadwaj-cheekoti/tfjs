@@ -29,7 +29,7 @@
     "karma-chrome-launcher": "~2.2.0",
     "karma-jasmine": "~1.1.0",
     "karma-typescript": "~4.0.0",
-    "mathjs": "^5.7.0",
+    "mathjs": "^7.5.1",
     "ts-node": "~7.0.0",
     "tsc": "^1.20150623.0",
     "tsify": "^3.0.4",
